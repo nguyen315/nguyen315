@@ -16,7 +16,7 @@ I'm a final year Software Engineering student at HCM Uninversity of Science 💡
 
 ---
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=50 height=50/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=50 height=50/> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" width=50 height=50/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=50 height=50/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width=50 height=50/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=50 height=50/> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" width=50 height=50/> 
  <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original-wordmark.svg" width=50 height=50/> <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width=50 height=50/> 
 
 ### Currently Learning
