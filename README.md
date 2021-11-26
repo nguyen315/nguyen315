@@ -2,8 +2,6 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=nguyen315&color=orange)
-
 I'm a final year Software Engineering student at HCM Uninversity of Science 💡. I'm currently working on Web Development with NodeJS and ReactJS ✨. You can reach me at hominhnguyen315@gmail.com 📫
 
 ### My Github Stats ⚡
