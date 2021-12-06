@@ -8,7 +8,7 @@ I'm a final year Software Engineering student at HCM Uninversity of Science 💡
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nguyen315)](https://git.io/streak-stats)
+[![GitHub Streak](https://secure-retreat-39186.herokuapp.com?user=nguyen315)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyen315&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
