@@ -4,7 +4,13 @@
 
 I'm a final year Software Engineering student at HCM Uninversity of Science 💡. I'm currently working on Web Development with NodeJS and ReactJS ✨. You can reach me at hominhnguyen315@gmail.com 📫
 
-### My Github Stats ⚡
+### Github Streak 🔥
+
+---
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nguyen315)](https://git.io/streak-stats)
+
+### Github Stats ⚡
 
 ---
 
@@ -21,4 +27,4 @@ I'm a final year Software Engineering student at HCM Uninversity of Science 💡
 
 ---
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width=50 height=50/> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width=50 height=50/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width=50 height=50/> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width=50 height=50/> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width=50 height=50/>
