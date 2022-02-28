@@ -20,11 +20,17 @@ I'm a final year Software Engineering student at HCM Uninversity of Science 💡
 
 ---
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=50 height=50/> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width=50 height=50/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width=50 height=50/> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg" width=50 height=50/> 
- <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original-wordmark.svg" width=50 height=50/> <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" width=50 height=50/> 
+<a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
+<a href="#"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/ReactJS-61DAFB?&style=for-the-badge&logo=react&logoColor=black"/></a>
+<a href="#"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?&style=for-the-badge&logo=PostgreSQL&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Sequelize-52B0E7?&style=for-the-badge&logo=Sequelize&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/MUI-007FFF?&style=for-the-badge&logo=MUI&logoColor=white"/></a>
 
 ### Currently Learning
 
 ---
-
-<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width=50 height=50/> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width=50 height=50/> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width=50 height=50/>
+<a href="#"><img src="https://img.shields.io/badge/typescript-3178C6?&style=for-the-badge&logo=typescript&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/go-00ADD8?&style=for-the-badge&logo=go&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/nextjs-000000?&style=for-the-badge&logo=next.js&logoColor=white"/></a>
