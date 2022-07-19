@@ -24,3 +24,8 @@
 <a href="#"><img src="https://img.shields.io/badge/typescript-3178C6?&style=for-the-badge&logo=typescript&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/go-00ADD8?&style=for-the-badge&logo=go&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/nextjs-000000?&style=for-the-badge&logo=next.js&logoColor=white"/></a>
+
+### Stats
+
+---
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nguyen315)](https://git.io/streak-stats)
